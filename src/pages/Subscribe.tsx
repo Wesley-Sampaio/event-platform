@@ -67,7 +67,7 @@ export function Subscribe() {
         </div>
       </div>
 
-      <img src="/src/assets/react-icon.png" className="absolute" alt="" />
+      {/* <img src="/src/assets/react-icon.png" className="absolute" alt="" /> */}
       <img src="/src/assets/code-mockup.png" className="mt-10" alt="" />
     </div>
   );
