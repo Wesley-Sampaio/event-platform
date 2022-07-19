@@ -48,3 +48,17 @@ Você pode visualizar o layout do projeto através [desse link](<https://www.fig
 * Criar footer nas páginas.
 
 ## :framed_picture: Previews
+
+## :satellite: Configurações adicionais ao projeto
+Para executar o projeto você precisa configurar também o graphcms e adicionar os itens para que consiga adicionar e ler itens na aplicação.
+
+O link abaixo, tem o schema que você pode clonar e usar como base para entender o projeto:
+
+- [https://app.hygraph.com/clone/54486971ac8f49e283b25040bc63e9d8?name=Ignite%20Lab%2002](https://app.hygraph.com/clone/54486971ac8f49e283b25040bc63e9d8?name=Ignite%20Lab%2002)
+
+### No esquema você pode adicionar os itens para listá-los
+
+* Challenge
+* Lesson
+* Subscriber
+* Teacher
