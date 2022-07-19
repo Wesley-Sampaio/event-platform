@@ -1,10 +1,13 @@
 <h1 align="center">:file_cabinet: Ignite lab - v2</h1>
 
 ## :memo: Descrição
-Escreva uma descrição do seu projeto
+Projeto feito na semana do Ignite Lab da @rocketseat. O projeto tinha que criar um página home onde o usuário cadastra o email e vai direto para a tela de Eventos. Foram utilizados: ReactJS, Tailwind, Graphql, Apollo, TypeScript, Deploy Vercel.
 
 ## :books: Funcionalidades
-* <b>Funcionalidade 1</b>: O que essa funcionalidade faz?
+* Tela de cadastro.
+* Escolher qual aula deseja assistir.
+* Botão de acesso ao material de apoio.
+* Botão que vai a entrada da comunidade.
 
 ## :wrench: Tecnologias utilizadas
 * [Node.js](https://nodejs.org/en/)
@@ -13,10 +16,11 @@ Escreva uma descrição do seu projeto
 * [Tailwind CSS](https://tailwindcss.com/)
 * [TypeScript](https://www.typescriptlang.org/)
 * [GraphQL](https://graphql.org/)
-* [GraphCMS](https://hygraph.com/)
-* [Apollo GraphQL](https://www.apollographql.com/)
+* [Apollo Client GraphQL](https://www.apollographql.com/)
 * [GraphCMS](https://www.apollographql.com/)
 * [Phosphor Icons](https://phosphoricons.com/)
+* [Date fns](https://date-fns.org/)
+* [Vime](https://vimejs.com/)
 
 ## :rocket: Rodando o projeto
 Para rodar o repositório é necessário clonar o mesmo, dar o seguinte comando para iniciar o projeto:
@@ -35,6 +39,12 @@ Para rodar o repositório é necessário clonar o mesmo, dar o seguinte comando 
 
   # The server will start on port 3000 - go to <http://localhost:3000>
 ```
+## :bookmark: Layout
+Você pode visualizar o layout do projeto através [desse link](<https://www.figma.com/community/file/1120711251998877938>). É necessário ter conta no [Figma](http://figma.com/) para acessá-lo.
 
 ## :soon: Implementação futura
-* O que será implementado na próxima sprint?
+* Responsividade no projeto.
+* Menu dropdown na header para dispositivos mobiles.
+* Criar footer nas páginas.
+
+## :framed_picture: Previews
