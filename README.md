@@ -29,7 +29,7 @@ Para rodar o repositório é necessário clonar o mesmo, dar o seguinte comando 
   $ git clone <https://github.com/Wesley-Sampaio/event-platform>
 
   # Access the project folder
-  $ cd ignite-lab-event-plaftorm
+  $ cd event-platform
 
   # Install the dependencies
   $ npm install
