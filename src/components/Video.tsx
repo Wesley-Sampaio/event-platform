@@ -3,7 +3,6 @@ import { CaretRight, DiscordLogo, FileArrowDown, Lightning } from "phosphor-reac
 
 import '@vime/core/themes/default.css'
 import { useGetLessonBySlugQuery } from "../graphql/generated";
-import { Footer } from "./Footer";
 
 interface VideoProps {
   lessonSlug: string;
@@ -106,7 +105,6 @@ export function Video(props: VideoProps) {
           </a>
         </div>
       </div>
-      <Footer />
     </div>
   );
 }
